@@ -26,3 +26,5 @@ address = 0x38
 t, h = get_temp_humid(address)
 print(t, "deg ", h, "%")
 
+print("test git")
+
