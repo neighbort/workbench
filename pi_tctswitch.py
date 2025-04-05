@@ -32,5 +32,5 @@ def WithPullDown(pin):
         print("Finish!")
 
 
-#WithPullUp(pin)
-WithPullDown(pin)
+WithPullUp(pin)
+#WithPullDown(pin)
